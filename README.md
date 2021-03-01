@@ -1,2 +1,2 @@
 # GDPR Companion
-A WebExtension to configure your RGPD policy across websites
+A WebExtension to configure your GDPR policy across websites
